@@ -1,4 +1,4 @@
-# 🛒 Amin E-Commerce & Product Catalog - Custom WordPress Theme
+# 🛒 ApexStore - Modern E-Commerce & Product Catalog WordPress Theme
 
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
@@ -6,7 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
 [![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org)
 
-**Amin E-Commerce** is a custom-built, full-featured WordPress theme engineered for high-performance product catalog management, e-commerce showcases, and multi-language business websites.
+**ApexStore** is a custom-built, full-featured WordPress theme engineered for high-performance product catalog management, e-commerce showcases, and multi-language business websites.
 
 ---
 
@@ -57,11 +57,11 @@
 
 1. Download or clone this repository into your WordPress installation:
    ```bash
-   wp-content/themes/amin-ecommerce/
+   wp-content/themes/apex-storefront/
    ```
 2. Log in to your **WordPress Admin Dashboard**.
 3. Navigate to **Appearance > Themes**.
-4. Locate **Amin E-Commerce Theme** and click **Activate**.
+4. Locate **ApexStore Theme** and click **Activate**.
 5. Assign menu locations and custom page templates under **Pages > Add New** selecting the appropriate Page Template (e.g. `Catalog Page`, `Product Showcase`).
 
 ---
